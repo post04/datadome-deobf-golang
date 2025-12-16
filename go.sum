@@ -1,0 +1,10 @@
+github.com/nukilabs/ftoa v1.0.0 h1:AiCb9begI2rwjDQm7/H+ce1ctdkixnOOw/bpurZTySc=
+github.com/nukilabs/ftoa v1.0.0/go.mod h1:ZJE2wT+SozGrxoj3oRB6Q6Kl3IMpCzdNOhymdmLGrHU=
+github.com/nukilabs/unicodeid v0.1.0 h1:+CtAaV9CkgVA3Jy9V29yb57DPCLsnWUJrP9LxhkD89w=
+github.com/nukilabs/unicodeid v0.1.0/go.mod h1:3qxjfcmcgVYBg9dMRNSniAVfqxwOed7JU7P2rPkJrRg=
+github.com/post04/go-fast v0.0.0-20251013194857-4dcbb35c9d7f h1:yEzgQTaYir5dtseadbCg2yCmx43JJ06jwR+BSTos/dc=
+github.com/post04/go-fast v0.0.0-20251013194857-4dcbb35c9d7f/go.mod h1:qWjVnCd1udV03CYvrxTtCU3jqzBpYidswAE7cJ/00fA=
+github.com/post04/go-fast v0.0.0-20251117000330-d6456f077777 h1:REbRv0n73q/RGtvJ5+vMnHHETLdRQ6JotQY0DnoVoJY=
+github.com/post04/go-fast v0.0.0-20251117000330-d6456f077777/go.mod h1:qWjVnCd1udV03CYvrxTtCU3jqzBpYidswAE7cJ/00fA=
+github.com/post04/go-fast v0.0.0-20251117000553-d23800594703 h1:Iah/RqrcSrdM/RHTbkPTu+ej1jJfKU/qc39imz4+TOM=
+github.com/post04/go-fast v0.0.0-20251117000553-d23800594703/go.mod h1:qWjVnCd1udV03CYvrxTtCU3jqzBpYidswAE7cJ/00fA=
