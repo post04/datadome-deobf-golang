@@ -1,10 +1,8 @@
-module github.com/post04/datadome-deobf-golang
+module github.com/post04/go-fast
 
-go 1.25.1
-
-require github.com/post04/go-fast v0.0.0-20251117000553-d23800594703
+go 1.24.0
 
 require (
-	github.com/nukilabs/ftoa v1.0.0 // indirect
-	github.com/nukilabs/unicodeid v0.1.0 // indirect
+	github.com/nukilabs/ftoa v1.0.0
+	github.com/nukilabs/unicodeid v0.1.0
 )
