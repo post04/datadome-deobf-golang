@@ -8,3 +8,5 @@ github.com/post04/go-fast v0.0.0-20251117000330-d6456f077777 h1:REbRv0n73q/RGtvJ
 github.com/post04/go-fast v0.0.0-20251117000330-d6456f077777/go.mod h1:qWjVnCd1udV03CYvrxTtCU3jqzBpYidswAE7cJ/00fA=
 github.com/post04/go-fast v0.0.0-20251117000553-d23800594703 h1:Iah/RqrcSrdM/RHTbkPTu+ej1jJfKU/qc39imz4+TOM=
 github.com/post04/go-fast v0.0.0-20251117000553-d23800594703/go.mod h1:qWjVnCd1udV03CYvrxTtCU3jqzBpYidswAE7cJ/00fA=
+github.com/post04/go-fast v0.0.0-20251216040514-9e90fe0fd5f8 h1:OakR7Zh/kGu396bcaum1gA+e6J6VBfXU0pWmzWdH7Gk=
+github.com/post04/go-fast v0.0.0-20251216040514-9e90fe0fd5f8/go.mod h1:qWjVnCd1udV03CYvrxTtCU3jqzBpYidswAE7cJ/00fA=
